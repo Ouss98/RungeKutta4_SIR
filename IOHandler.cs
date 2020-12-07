@@ -57,7 +57,7 @@ namespace _0Assignment3
             Vector y0 = new Vector(new double[3] { (25216237.0 - 1.0) / 25216237.0,
                     1 / 25216237.0, 2.4 / 25216237.0 });
 
-            Console.WriteLine("----------------------- Model initialiation -----------------------");            
+            Console.WriteLine("----------------------- Model initialization --s---------------------");            
             Console.WriteLine("\nFor COVID-19 values, press 'Y' ....... For custom values, press 'N'\n");
             Console.WriteLine("( The COVID-19 model is pre-initialized )");
             string valMod = Console.ReadLine();
